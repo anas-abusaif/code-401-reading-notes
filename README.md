@@ -3,4 +3,4 @@
 
 | class | subject |
 | :---: | :-----------: |
-| 1 | []()|
+| 1 | [Beginners Guide to Big O](class_01.md)|
