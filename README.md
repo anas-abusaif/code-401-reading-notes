@@ -10,3 +10,4 @@
 | 5 | [Linked Lists](class-05.md)|
 | 6 | [Game of Greed 1](class-06.md)|
 | 7 | [Game of Greed 2](class-07.md)|
+| 8 | [List Comprehensions in Python](class-08.md)|
