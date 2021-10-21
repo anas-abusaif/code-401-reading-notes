@@ -12,3 +12,4 @@
 | 7 | [Game of Greed 2](class-07.md)|
 | 8 | [List Comprehensions in Python](class-08.md)|
 | 9 | [Dunder Methods](class-09.md)|
+| 10 | [Stacks and Queues](class-10.md)|
