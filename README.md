@@ -13,3 +13,4 @@
 | 8 | [List Comprehensions in Python](class-08.md)|
 | 9 | [Dunder Methods](class-09.md)|
 | 10 | [Stacks and Queues](class-10.md)|
+| 11 | [Data Analysis](class-11.md)|
