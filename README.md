@@ -15,3 +15,4 @@
 | 10 | [Stacks and Queues](class-10.md)|
 | 11 | [Data Analysis](class-11.md)|
 | 12 | [Pandas](class-12.md)|
+| 13 | [Linear Regressions](class-13.md)|
