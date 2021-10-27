@@ -16,3 +16,4 @@
 | 11 | [Data Analysis](class-11.md)|
 | 12 | [Pandas](class-12.md)|
 | 13 | [Linear Regressions](class-13.md)|
+| 14 | [Data Visualization](class-14.md)|
