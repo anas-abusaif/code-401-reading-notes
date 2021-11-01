@@ -20,3 +20,4 @@
 | 15 | [Trees](class-15.md)|
 | 16 | [Machine Learning](class-16.md)|
 | 17 | [Web Scraping](class-17.md)|
+| 18 | [Cryptography](class-18.md)|
