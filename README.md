@@ -22,3 +22,4 @@
 | 17 | [Web Scraping](class-17.md)|
 | 18 | [Cryptography](class-18.md)|
 | 19 | [Automation](class-19.md)|
+| 20 | [Intro to Django](class-20.md)|
