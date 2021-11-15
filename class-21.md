@@ -29,3 +29,34 @@ class MyModelName(models.Model):
         """String for representing the MyModelName object (in Admin site etc.)."""
         return self.my_field_name
 ```
+
+# Django admin site
+
+The Django admin application can use your models to automatically build a site area that you can use to create, view, update, and delete records. This can save you a lot of time during development, making it very easy to test your models and get a feel for whether you have the right data. The admin application can also be useful for managing data in production, depending on the type of website. The Django project recommends it only for internal data management (i.e. just for use by admins, or people internal to your organization), as the model-centric approach is not necessarily the best possible interface for all users, and exposes a lot of unnecessary detail about the models.
+
+## Registering models
+
+First, open admin.py in the catalog application (/locallibrary/catalog/admin.py). It currently looks like this — note that it already imports django.contrib.admin:
+
+```python
+from django.contrib import admin
+
+# Register your models here.
+```
+
+Register the models by copying the following text into the bottom of the file. This code imports the models and then calls admin.site.register to register each of them.
+
+```python
+from .models import Author, Genre, Book, BookInstance
+
+admin.site.register(Book)
+admin.site.register(Author)
+admin.site.register(Genre)
+admin.site.register(BookInstance)
+```
+
+## Creating a superuser
+
+```
+python3 manage.py createsuperuser
+```
