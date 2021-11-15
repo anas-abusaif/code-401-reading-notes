@@ -23,3 +23,4 @@
 | 18 | [Cryptography](class-18.md)|
 | 19 | [Automation](class-19.md)|
 | 20 | [Intro to Django](class-20.md)|
+| 21 | [Django models](class-21.md)|
