@@ -24,3 +24,4 @@
 | 19 | [Automation](class-19.md)|
 | 20 | [Intro to Django](class-20.md)|
 | 21 | [Django models](class-21.md)|
+| 22 | [Django Forms](class-22.md)|
