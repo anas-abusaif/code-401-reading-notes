@@ -26,4 +26,5 @@
 | 21 | [Django models](class-21.md)|
 | 22 | [Django Forms](class-22.md)|
 | 23 | [Django custom user](class-23.md)|
-| 2 | [Hash Tables](class-24.md)|
+| 24 | [Hash Tables](class-24.md)|
+| 25 | [Django REST Framework & Docker](class-25.md)|
