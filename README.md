@@ -29,3 +29,4 @@
 | 24 | [Hash Tables](class-24.md)|
 | 25 | [Django REST Framework & Docker](class-25.md)|
 | 26 | [Permissions & Postgresql](class-26.md)|
+| 27 | [Permissions & Postgresql](class-27.md)|
