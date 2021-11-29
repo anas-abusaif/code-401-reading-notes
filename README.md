@@ -33,3 +33,4 @@
 | 28 | [API Deployment](class-28.md)|
 | 29 | [Graphs](class-29.md)|
 | 30 | [DSA Review](class-30.md)|
+| 31 | [React 1](class-31.md)|
