@@ -35,3 +35,4 @@
 | 30 | [DSA Review](class-30.md)|
 | 31 | [React 1](class-31.md)|
 | 32 | [React 2](class-32.md)|
+| 33 | [React 3](class-33.md)|
