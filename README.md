@@ -37,3 +37,5 @@
 | 32 | [React 2](class-32.md)|
 | 33 | [React 3](class-33.md)|
 | 34 | [React 4](class-34.md)|
+| 35 | [Pythonisms](class-35.md)|
+| 36 | [Ethics](class-36.md)|
