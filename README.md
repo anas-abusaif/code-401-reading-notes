@@ -39,3 +39,4 @@
 | 34 | [React 4](class-34.md)|
 | 35 | [Pythonisms](class-35.md)|
 | 36 | [Ethics](class-36.md)|
+| 37 | [Open-Source Software Contribution](class-37.md)|
